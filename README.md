@@ -45,7 +45,7 @@ python main.py
 
 ## Documentation
 
-This project is thoroughly documented, including a 120-page report covering stakeholder requirements, design, implementation, and testing. You can find the full documentation [here](link-to-document).
+This project is thoroughly documented, including a 120-page report covering stakeholder requirements, design, implementation, and testing. You can find the full documentation [here](barbershop-project.docx).
 
 ## Future Improvements
 
