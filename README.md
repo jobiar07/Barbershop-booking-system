@@ -28,7 +28,7 @@ This project is a barbershop booking system built using Python with AppJar for t
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/barbershop-booking-system.git
+git clone https://github.com/jobiar07/barbershop-booking-system.git
 
 2. Install required dependencies:
 pip install appjar sqlite3 smtplib
